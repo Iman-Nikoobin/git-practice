@@ -6,3 +6,4 @@ Git staging practice
 Another change
 Feature branch work
 Version from master
+change from clone
